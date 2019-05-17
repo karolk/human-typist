@@ -1,0 +1,38 @@
+{
+  "name": "human-typist",
+  "version": "0.1.0",
+  "description": "React component simulating the way humans type text",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "build": "parcel index.html"
+  },
+  "keywords": [
+    "react"
+  ],
+  "peerDependencies": {
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0"
+  },
+  "author": {
+    "name": "Karol Kowalski",
+    "email": "kowcik@gmail.com",
+    "url": "https://github.com/karolk"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^24.0.13",
+    "@types/node": "^12.0.2",
+    "@types/react": "^16.8.17",
+    "@types/react-dom": "^16.8.4",
+    "jest": "^24.8.0",
+    "parcel-bundler": "^1.12.3",
+    "react-testing-library": "^7.0.0",
+    "ts-jest": "^24.0.2",
+    "typescript": "^3.4.5"
+  },
+  "dependencies": {
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  }
+}
